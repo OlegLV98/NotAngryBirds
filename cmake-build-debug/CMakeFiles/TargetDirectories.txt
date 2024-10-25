@@ -1,0 +1,3 @@
+/Users/oleglesnoy/Desktop/angryBirds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oleglesnoy/Desktop/angryBirds/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oleglesnoy/Desktop/angryBirds/cmake-build-debug/CMakeFiles/angryBirds.dir
